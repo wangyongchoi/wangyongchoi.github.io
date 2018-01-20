@@ -428,7 +428,7 @@ changyan:
 #google_site_verification:
 
 # Google Analytics
-google_analytics: https://www.googletagmanager.com/gtag/js?id=UA-73953230-2
+google_analytics: UA-73953230-2
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
