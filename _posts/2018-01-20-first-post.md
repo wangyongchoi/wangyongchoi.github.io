@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-01-20
+date: 2018-01-20 13:00
 title: First Post!
 ---
 
