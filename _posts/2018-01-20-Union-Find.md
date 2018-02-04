@@ -2,6 +2,9 @@
 layout: post
 date: 2018-01-20 19:00
 title: Union Find
+categories: 
+- Algorithm
+- UnionFind
 ---
 
 
